@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++, TypeScript, Swift**
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=47PADO47&show_icons=true&theme=vue)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=47PADO47&show_icons=true&theme=vue&icon_color=FFD700)
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=47PADO47&theme=vue)
 
 <h3 align="left">Connect with me:</h3>
