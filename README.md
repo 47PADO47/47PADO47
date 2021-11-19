@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm <span style="color: #bfff00;">PADO</span></h1>
-<h3 align="center">A Node.js developer</h3>
+<h3 align="center">A 15yo Italian Node.js developer</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/47PADO47/47PADO47/main/IT_Flag.png" style="height: 45px;width:60px">
+</div>
 
 - 🔭 I’m currently working on a [Discord Bot](https://github.com/47PADO47/AquaDiscord)
 
