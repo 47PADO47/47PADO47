@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <span style="color: #bfff00;">PADO</span></h1>
 <h3 align="center">A Node.js developer</h3>
 
-- 🔭 I’m currently working on a [Twitch Bot](https://github.com/47PADO47/TwitchBot)
+- 🔭 I’m currently working on a [Discord Bot](https://github.com/47PADO47/AquaDiscord)
 
 - 🌱 I’m currently learning **C++, TypeScript, Swift**
 
